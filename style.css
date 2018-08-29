@@ -1,0 +1,57 @@
+.wrapper
+{
+  width:1350px;
+  background:#eee;
+  margin:0 auto 0 auto;
+}
+.heading
+{
+  height:100%;
+  background-image: url("2.jpg");
+    background-size: 15%;
+text-shadow: 3px 2px red;
+line-height: 2.5;
+  text-align:center;
+}
+.navigtion
+{
+  height:50px;
+ background:green;
+
+}
+.content
+{
+ font-size: 22px;
+ font-style: oblique;
+ text-indent: 50px;
+  min-height:400px;
+  background-image: url("6.jpg");
+  background-size: 100%;
+ 
+width:900px;  float:left;
+}
+.sidebar
+{
+  width:450px;
+  background:lightblue;
+  float:right;
+  min-height:400px;
+   text-align:center;
+}
+.footer
+{
+
+background:black;
+    color:white;
+    text-align:center;
+}
+
+ol {
+    background: #3399ff;
+    padding: 20px;
+}
+
+ol li {
+    background: #cce5ff;
+    margin: 5px;
+}
